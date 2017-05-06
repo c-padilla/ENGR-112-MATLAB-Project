@@ -39,6 +39,7 @@ while (true)
             user = char(u);
             username = strcat('Welcome,  ', user, '!');
             if (isequal(user, 'sam'))
+            % sam is love. sam is life
                 fprintf('Welcome back, boss.\n');
             else
                 fprintf('Hello, %s!\n', user);
