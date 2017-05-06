@@ -1,12 +1,12 @@
 % By submitting this assignment, I agree to the following:
-%  ìAggies do not lie, cheat, or steal, or tolerate those who doî
-%  ìI have not given or received any unauthorized aid on this assignmentî
+%  ‚ÄúAggies do not lie, cheat, or steal, or tolerate those who do‚Äù
+%  ‚ÄúI have not given or received any unauthorized aid on this assignment‚Äù
 % 
 % Name: CHRISTOPHER PADILLA
 % Section: 530
 % Team:	13
-% Assignment: MATLAB 1: HOMEWORK
-% Date:	10 NOV. 2016
+% Assignment: MATLAB PROJECT
+% Date:	19 APR. 2017
 
 function[Mean, Median, Mode, Var, Std, Min, Max, Count] = mystat(data)
 % This function computes the basic values needed for the user's data
