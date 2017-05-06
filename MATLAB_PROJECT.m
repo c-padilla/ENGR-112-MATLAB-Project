@@ -59,7 +59,7 @@ while (true)
                 else
                     data = horzcat(inputFile(:,1), inputFile(:,2));
                 end
-                fprintf('Data loaded. Ready to perform menu''s functions%s\n', ...
+                fprintf('Data loaded. Ready to perform menu''s functions. %s\n', ...
                     'Reset Memory before loading another input file');
                 if(~isempty(outputFile))
                     fprintf('Both files loaded. Outputting results to %s\n', outputFileName);
