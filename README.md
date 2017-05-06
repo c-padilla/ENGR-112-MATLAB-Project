@@ -1,4 +1,4 @@
-# ENGR-112-MATLAB-Project
+# ENGR 112 MATLAB Project
 MATLAB Statistical Application
 
 This application is a menu-based tool that calculates relevant statistical information of a data set.
