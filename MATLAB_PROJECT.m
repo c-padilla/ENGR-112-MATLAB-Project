@@ -1,6 +1,6 @@
 % By submitting this assignment, I agree to the following:
-%  “Aggies do not lie, cheat, or steal, or tolerate those who do”
-%  “I have not given or received any unauthorized aid on this assignment”
+%  â€œAggies do not lie, cheat, or steal, or tolerate those who doâ€
+%  â€œI have not given or received any unauthorized aid on this assignmentâ€
 % 
 % Name: CHRISTOPHER PADILLA
 % Section: 530
@@ -48,6 +48,7 @@ while (true)
             try
                 inputFile = load(char(iif));
                 loaded = true;
+                nColumns = 3;
                 nColumns = char(nColumns);
                 while (~isequal(nColumns, '1') && ~isequal(nColumns, '2'))
                     nColumns = inputdlg('Is this data set distributed over 1 or 2 columns?');
